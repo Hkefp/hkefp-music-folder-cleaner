@@ -1,2 +1,19 @@
-# hkefp-music-folder-cleaner
-i created this to delete files such as jpg, png, m3u and more that are mostly found when downloading music from soulseek.
+
+# Hkefp's music folder cleaner!
+
+This is a small little program that deletes unwanted files inside your music directories!
+
+
+
+
+## Features
+- Add or modify file extentions to delete.
+- Instead of deleting them all, you can move them into a backup folder if you want!
+- JSON file that saves your main directory and configuration
+
+
+## Screenshots
+
+![](https://i.imgur.com/KAchckI.png)
+![](https://i.imgur.com/o7O2Ow1.png)
+
