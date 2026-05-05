@@ -1,7 +1,7 @@
 
 # Hkefp's music folder cleaner!
 
-This is a small little program that deletes unwanted files inside your music directories!
+This is a small little program that deletes "unwanted" files inside your music directories!
 
 
 
