@@ -282,7 +282,7 @@ settings_btn.pack(pady=5)
 footer = tb.Label(app, text="Created by Hkefp", font=("Ubuntu", 8), bootstyle="secondary")
 footer.pack(side="bottom", pady=0)
 
-img = tk.PhotoImage(file='/home/hkefp/Desktop/projects/bulk_delete/ico.png')
+img = tk.PhotoImage(file='ico.png')
 app.iconphoto(False, img)
 
 app.geometry(f"500x300")
